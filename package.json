@@ -47,7 +47,8 @@
     "puppeteer-extra-plugin-adblocker": "^2.13.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.2.0"
+    "rxjs": "^7.2.0",
+    "@sparticuz/chromium": "^112.0.2"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
